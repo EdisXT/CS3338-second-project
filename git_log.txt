@@ -1,0 +1,45 @@
+commit 8845713fcf9237701045b55f9872174eaf6583f0
+Merge: 3600a1d 5ef9b47
+Author: Edis Aviles <edisaviles0406@gmail.com>
+Date:   Sun Sep 6 20:49:58 2026 -0700
+
+    Resolve merge conflict
+
+commit 5ef9b47b127ff51de967724090e6bde6c3db6064
+Author: Edis Aviles <edisaviles0406@gmail.com>
+Date:   Sun Sep 6 20:46:13 2026 -0700
+
+    Add favorite movie
+
+commit 3600a1d9fe93f99733b987c126874c50643ca334
+Author: Edis Aviles <edisaviles0406@gmail.com>
+Date:   Sun Sep 6 20:43:47 2026 -0700
+
+    Add favorite food
+
+commit ea9a0eab7815ac76f24fcc4014d07d6bfb73d896
+Author: Edis Aviles <edisaviles0406@gmail.com>
+Date:   Sun Sep 6 20:39:30 2026 -0700
+
+    Add README
+
+commit 58e4c8b95e605b10a104ed252480098b26d34804
+Merge: 1d2bfc0 a9b6da9
+Author: EdisXT <edisaviles0406@gmail.com>
+Date:   Sun Sep 6 20:36:27 2026 -0700
+
+    Merge pull request #1 from EdisXT/info-fill
+    
+    Fill in personal information
+
+commit a9b6da9e7db3f356605608c68549984dbb7c50e9
+Author: Edis Aviles <edisaviles0406@gmail.com>
+Date:   Sun Sep 6 20:14:26 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
